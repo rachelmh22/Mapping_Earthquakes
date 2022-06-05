@@ -18,4 +18,8 @@ The deliverables for the module challenge:
 
 ### Deliverable 2
 
+![Tectonic_Plates](Earthquake_Challenge/static/images/Major_Earthquakes.png)
+
 ### Deliverable 3
+
+![Tectonic_Plates](Earthquake_Challenge/static/images/Outdoors_Map.png)
